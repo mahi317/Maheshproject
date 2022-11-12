@@ -1,0 +1,9 @@
+package module;
+
+public class Code {
+	
+	public void m1() {
+		System.out.println("M1 method");
+	}
+
+}
