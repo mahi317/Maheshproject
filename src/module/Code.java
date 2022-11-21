@@ -6,7 +6,7 @@ public class Code {
 		System.out.println("M1 method");
 		System.out.println("M2 method");
 		System.out.println("M2 method");
-
+		System.out.println("m3 method");	
 
 	}
 
