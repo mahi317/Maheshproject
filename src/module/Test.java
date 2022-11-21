@@ -11,6 +11,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		
     	SimpleDateFormat sdf = new  SimpleDateFormat("yyyy-MM-dd");
     	String startDate = "2022-11-18";
@@ -28,6 +29,19 @@ public class Test {
 
 	
 	
+=======
+		System.out.println("malli code base - 1");
+		System.out.println("mahesh code base");
+		System.out.println("mahesh code base - 1");
+
+
+		System.out.println("malli code base - 2 ");
+		
+		System.out.println("malli code base - 3 ");
+		System.out.println("malli code base - 4 ");
+
+		
+>>>>>>> 7240871c986054cb682f0b1b155ad557d027f27e
 
 	}
 
